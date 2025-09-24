@@ -1,0 +1,16 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# SQLite database files
+*.sqlite3
+
+# OS / Editor specific files
+.DS_Store
+.idea/
+.vscode/
