@@ -1,9 +1,7 @@
 streamlit
-pandas
-scikit-learn
-streamlit
-PyMuPDF
-scikit-learn
-pandas
-numpy
+fitz (PyMuPDF)
+docx2txt
+re (Python built-in)
 spacy
+sentence-transformers
+scikit-learn (sklearn)
