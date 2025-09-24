@@ -1,7 +1,11 @@
 streamlit
-fitz (PyMuPDF)
+pandas
+numpy
+scikit-learn
+scipy
+pymupdf
 docx2txt
-re (Python built-in)
 spacy
 sentence-transformers
-scikit-learn (sklearn)
+re
+fitz
