@@ -1,3 +1,9 @@
 streamlit
 pandas
 scikit-learn
+streamlit
+PyMuPDF
+scikit-learn
+pandas
+numpy
+spacy
