@@ -1,0 +1,16 @@
+python
+django
+flask
+fast api
+html
+css
+C 
+C++
+java
+java script
+docker
+rest api
+aws
+sql
+tensorflow
+kubernetes
